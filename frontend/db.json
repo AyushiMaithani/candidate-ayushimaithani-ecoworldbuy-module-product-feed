@@ -1,0 +1,28 @@
+{
+  "printful-products": [
+    {
+      "id": "PF_001",
+      "title": "Eco-Tote: Beach Bag",
+      "image": "https://images.pexels.com/photos/4068314/pexels-photo-4068314.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price_cents": 2999
+    },
+    {
+      "id": "PF_002",
+      "title": "Organic Cotton T-Shirt",
+      "image": "https://images.pexels.com/photos/22441317/pexels-photo-22441317/free-photo-of-dark-blue-shirt-on-hanger.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price_cents": 1999
+    },
+    {
+      "id": "PF_003",
+      "title": "Bamboo Travel Mug",
+      "image": "https://images.pexels.com/photos/28916252/pexels-photo-28916252/free-photo-of-traditional-bamboo-mug-beverages-in-suzhou-cafe.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price_cents": 2499
+    },
+    {
+      "id": "PF_004",
+      "title": "Reusable Metal Straw Set",
+      "image": "https://images.pexels.com/photos/5719927/pexels-photo-5719927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price_cents": 1299
+    }
+  ]
+}
