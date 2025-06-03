@@ -9,7 +9,7 @@ const CardList = () => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const response = await axios.get(apiUrl);
+        const response = await axios.get(`${apiUrl}/api/printful-products`);
         console.log(response.data);
         setProducts(response.data);
       } catch (error) {

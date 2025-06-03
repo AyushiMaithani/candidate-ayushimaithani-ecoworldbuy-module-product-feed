@@ -1,4 +1,16 @@
 {
+  "subscribers": [
+    {
+      "id": 1748977712826,
+      "name": "k",
+      "email": "hbhj@h"
+    },
+    {
+      "id": 1748978297959,
+      "name": "j5",
+      "email": "ghjug@f.com"
+    }
+  ],
   "printful-products": [
     {
       "id": "PF_001",
@@ -24,5 +36,6 @@
       "image": "https://images.pexels.com/photos/5719927/pexels-photo-5719927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "price_cents": 1299
     }
-  ]
+  ],
+  "sample-requests": []
 }
